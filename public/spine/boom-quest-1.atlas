@@ -1,0 +1,279 @@
+boom-quest-1.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.5
+Comp 1/Comp 1_00035
+bounds:1072,1147,209,264
+offsets:177,135,540,540
+Comp 1/Comp 1_00036
+bounds:1443,0,199,234
+offsets:170,141,540,540
+rotate:90
+Comp 1/Comp 1_00038
+bounds:985,0,197,230
+offsets:172,145,540,540
+rotate:90
+Comp 1/Comp 1_00039
+bounds:1215,0,197,228
+offsets:173,146,540,540
+rotate:90
+Comp 1/Comp 1_00040
+bounds:1215,0,197,228
+offsets:173,146,540,540
+rotate:90
+Comp 1/Comp 1_00041
+bounds:1066,918,193,229
+offsets:176,145,540,540
+Comp 1/Comp 1_00042
+bounds:1374,199,192,229
+offsets:178,145,540,540
+rotate:90
+Comp 1/Comp 1_00043
+bounds:1603,202,189,228
+offsets:180,146,540,540
+rotate:90
+Comp 1/Comp 1_00044
+bounds:1857,653,186,228
+offsets:185,148,540,540
+Comp 1/Comp 1_00047
+bounds:835,953,231,224
+offsets:189,153,540,540
+Comp 1/Comp 1_00049
+bounds:1831,204,187,216
+offsets:189,156,540,540
+rotate:90
+Comp 1/Comp 1_00053
+bounds:1867,26,176,178
+offsets:189,184,540,540
+Comp 1/Comp 1_00061
+bounds:117,303,117,158
+offsets:199,197,540,540
+Comp 1/Comp 1_00062
+bounds:234,305,116,156
+offsets:200,199,540,540
+Comp 1/Comp 1_00063
+bounds:1219,1501,93,153
+offsets:200,202,540,540
+Comp 1/Comp 1_00064
+bounds:1928,1117,93,153
+offsets:200,202,540,540
+Comp 1/Comp 1_00065
+bounds:1928,964,93,153
+offsets:200,202,540,540
+Layer_10
+bounds:1374,395,36,36
+Layer_11
+bounds:1995,1632,130,53
+rotate:90
+Layer_13
+bounds:676,1422,39,56
+rotate:90
+Layer_14
+bounds:1987,1545,61,87
+Layer_15
+bounds:0,16,287,287
+Layer_17
+bounds:287,10,131,165
+rotate:90
+Layer_18
+bounds:1995,1762,286,50
+rotate:90
+Layer_2
+bounds:1312,1640,15,14
+Layer_4
+bounds:1670,1310,116,46
+rotate:90
+Layer_5
+bounds:1987,1439,106,58
+rotate:90
+Layer_7
+bounds:1468,881,37,37
+Layer_8
+bounds:452,3,131,74
+background/bg@2x
+bounds:0,1194,676,267
+background/broken1@2x
+bounds:452,77,144,64
+background/broken2@2x
+bounds:581,970,207,254
+rotate:90
+background/broken3@2x
+bounds:1864,391,262,143
+rotate:90
+background/broken6@2x
+bounds:985,460,76,69
+background/brokenpla@2x
+bounds:0,1461,812,587
+background/dust@2x
+bounds:0,947,581,247
+background/light@2x
+bounds:0,303,644,117
+rotate:90
+background/plandown@2x
+bounds:117,461,486,237
+rotate:90
+background/planup@2x
+bounds:812,1654,515,394
+effect/effect
+bounds:1327,1663,393,385
+offsets:5,6,401,401
+effect/star
+bounds:1677,3,199,190
+rotate:90
+firefn/firefn_00000
+bounds:1327,1426,389,237
+offsets:27,95,450,450
+firefn/firefn_00001
+bounds:1327,1426,389,237
+offsets:27,95,450,450
+firefn/firefn_00002
+bounds:1281,918,389,237
+offsets:27,95,450,450
+firefn/firefn_00003
+bounds:603,529,389,238
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00004
+bounds:841,529,389,238
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00005
+bounds:841,529,389,238
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00006
+bounds:1079,431,389,234
+offsets:27,95,450,450
+firefn/firefn_00007
+bounds:1079,431,389,234
+offsets:27,95,450,450
+firefn/firefn_00008
+bounds:676,1177,396,234
+offsets:27,95,450,450
+firefn/firefn_00009
+bounds:1468,391,396,237
+offsets:27,95,450,450
+firefn/firefn_00010
+bounds:812,1411,407,243
+offsets:27,95,450,450
+firefn/firefn_00011
+bounds:812,1411,407,243
+offsets:27,95,450,450
+firefn/firefn_00012
+bounds:354,530,417,249
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00013
+bounds:596,47,389,240
+offsets:27,95,450,450
+firefn/firefn_00014
+bounds:354,141,389,242
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00015
+bounds:596,287,389,242
+offsets:27,95,450,450
+firefn/firefn_00016
+bounds:1079,665,389,253
+offsets:27,95,450,450
+firefn/firefn_00017
+bounds:1468,628,389,253
+offsets:27,95,450,450
+firefn/firefn_00018
+bounds:1670,881,389,258
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00019
+bounds:1670,881,389,258
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00020
+bounds:1716,1270,389,271
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00021
+bounds:1281,1155,389,271
+offsets:27,95,450,450
+firefn/firefn_00022
+bounds:1720,1659,389,275
+offsets:27,95,450,450
+rotate:90
+firefn/firefn_00023
+bounds:985,197,389,234
+offsets:27,95,450,450
+
+boom-quest-1_2.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Comp 1/Comp 1_00033
+bounds:198,256,221,207
+offsets:205,152,540,540
+Comp 1/Comp 1_00034
+bounds:198,256,221,207
+offsets:205,152,540,540
+Comp 1/Comp 1_00037
+bounds:0,230,198,233
+offsets:171,142,540,540
+Comp 1/Comp 1_00045
+bounds:0,4,185,226
+offsets:188,150,540,540
+Comp 1/Comp 1_00046
+bounds:0,4,185,226
+offsets:188,150,540,540
+Comp 1/Comp 1_00048
+bounds:419,276,187,221
+offsets:189,154,540,540
+rotate:90
+Comp 1/Comp 1_00050
+bounds:640,277,186,210
+offsets:190,158,540,540
+rotate:90
+Comp 1/Comp 1_00051
+bounds:850,283,180,206
+offsets:190,159,540,540
+rotate:90
+Comp 1/Comp 1_00052
+bounds:850,283,180,206
+offsets:190,159,540,540
+rotate:90
+Comp 1/Comp 1_00054
+bounds:1056,285,170,178
+offsets:190,182,540,540
+Comp 1/Comp 1_00055
+bounds:1226,285,169,178
+offsets:190,181,540,540
+Comp 1/Comp 1_00056
+bounds:1395,286,164,177
+offsets:196,180,540,540
+Comp 1/Comp 1_00057
+bounds:1559,292,164,171
+offsets:197,185,540,540
+Comp 1/Comp 1_00058
+bounds:1723,292,164,171
+offsets:197,185,540,540
+Comp 1/Comp 1_00059
+bounds:1887,299,161,164
+offsets:200,191,540,540
+Comp 1/Comp 1_00060
+bounds:1887,137,162,161
+offsets:199,194,540,540
+rotate:90
+Comp 1/Comp 1_00066
+bounds:352,103,93,153
+offsets:200,202,540,540
+Layer_12
+bounds:666,178,99,99
+Layer_16
+bounds:445,167,121,109
+Layer_3
+bounds:185,0,139,119
+Layer_6
+bounds:324,7,116,96
+Layer_9
+bounds:566,176,100,100
+background/broken4@2x
+bounds:198,119,137,154
+rotate:90
