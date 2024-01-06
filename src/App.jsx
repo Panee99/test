@@ -1,38 +1,53 @@
 import React, { useEffect, useRef } from "react";
 import { SpinePlayer } from "@esotericsoftware/spine-player";
+import "./App.css";
 
 export const App = () => {
   const spineRef = useRef(null);
-  const spinePlayer = useRef(null);
+  const playerRef = useRef(null);
   useEffect(() => {
-    spinePlayer.current = new SpinePlayer("spine", {
+    playerRef.current = new SpinePlayer("spine", {
       jsonUrl: "/spine/boom-quest-1.json",
       atlasUrl: "/spine/boom-quest-1.atlas",
       preserveDrawingBuffer: true,
+      showLoading: false,
       showControls: false,
-      backgroundColor: "#00000000",
       alpha: true,
-      
-      // animations: ["idle"],
-      success: function () {
-        console.log("hello");
+      animations: ["idle", "bomb"],
+      viewport: {
+        x: -1914.33,
+        y: -623.16,
+        width: 4107.04,
+        height: 2165.26,
+        padLeft: "0%",
+        padRight: "0%",
+        padTop: "0%",
+        padBottom: "0%",
+        debugRender: true,
+      },
+      success: function (player) {
+        console.log("success");
       },
     });
-
-    spineRef.current?.appendChild(spinePlayer.current.canvas);
   }, []);
 
   const click = () => {
-    console.log("click");
-    spinePlayer.current.setAnimation("bomb");
+    playerRef.current.animationState.setAnimation(0, "bomb", false);
+  };
+
+  const reset = () => {
+    playerRef.current.animationState.setAnimation(0, "idle", true);
   };
 
   return (
-    <div
-      id="spine"
-      ref={spineRef}
-      style={{ width: "800px", height: "600px" }}
-      onClick={click}
-    ></div>
+    <>
+      <button
+        id="spine"
+        ref={spineRef}
+        style={{ height: "80px" }}
+        onClick={click}
+      ></button>
+      <button onClick={reset}>reset</button>
+    </>
   );
 };
